@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+A Flutter project to demonstrate inter working of widgets.
 
 ## Getting Started
 
